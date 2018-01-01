@@ -1,8 +1,10 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 1, 2018
-**Today's Plan**:
+**Today's ToDo's**:
 + Get Authentication working for [Collect this list](https://github.com/SGTMcClain/collectThisList)
++ Draw a use diagram for basic website usage
++ Switch from Materialize CSS to Bootstrap
 
 **Today's Progress**
 
