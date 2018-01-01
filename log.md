@@ -8,7 +8,11 @@
 
 **Today's Progress**
 
++ Coded for an hour but made little progress with switching from materialize to bootstrap
+
 **Thoughts**
+
++ I don't know if it is worth it to switch from materialize since I seem to be spending more time trying to figure out how to switch it than actually designing and using my app.  However, it sucks that the materialize checkboxes are not working as expected, and the documentation has been less than helpful.
 
 <!--  Cheat Sheet!
 ### Day 0: February 30, 2016 (Example 1)
