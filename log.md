@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 2, 2018
+**Today's ToDo's**:
+
++ Get Authentication working for [Collect this list](https://github.com/SGTMcClain/collectThisList)
++ Draw a use diagram for basic website usage
++ Switch from Materialize CSS to Bootstrap
+
+**Today's Progress**
+1. I don't know if this counts but I have learned a bit more about markdown, which should make this journey a bit easier. 
+
+**Thoughts**
++ Decided to keep this log in reverse cronological order, which will be easier to keep up with but unfortunately harder to follow unless you read from the bottom up.  However since this is the manner in which most blogs operate I figure I will work the same way.
+
++ Gave some thought to the rules that I will hold myself to.  I find hours not to be a great metric on it's own to see if I was productive so I think I need add some qualifying events to the way I track my 100 days of code. So to qualify as a successful day of coding I must:
+
+  1. Code for a minimum of 1 hour (and commit to github) or,
+  2. Work on design documentation along with coding for a minimum of 1 hour (and commit to github) or,
+  3. Watch an hours worth of coding tutorials or,
+  4. Read articles about coding subjects and write a summary blog post on Medium summarizing what I learned
+
+  + When completed a record of the activity should be linked in this log as a record of my activities.
++ I hope I am not holding myself to an unreasonable standard
+
+---
 ### Day 1: January 1, 2018
 **Today's ToDo's**:
 + Get Authentication working for [Collect this list](https://github.com/SGTMcClain/collectThisList)
