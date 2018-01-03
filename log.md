@@ -8,7 +8,8 @@
 + Switch from Materialize CSS to Bootstrap
 
 **Today's Progress**
-1. I don't know if this counts but I have learned a bit more about markdown, which should make this journey a bit easier. 
+1. I don't know if this counts but I have learned a bit more about markdown, which should make this journey a bit easier.
+2. Reading Chapter 1 in Introduction programming using phython. Today was a bit off due to a family issue, hopefully tomorrow will be better. s/n ipads suck for editing Github.
 
 **Thoughts**
 + Decided to keep this log in reverse cronological order, which will be easier to keep up with but unfortunately harder to follow unless you read from the bottom up.  However since this is the manner in which most blogs operate I figure I will work the same way.
