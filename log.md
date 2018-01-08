@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 6, 2018
+
+**Today's Progress**
+1. Completed the first portion of a Stack Skills Phyton tutorial in preparation for my class starting next week
+
+**Thoughts**
++ Keeping up with this is harder than I first expected but I will stick with it. 
+
+---
+
+
 ### Day 2: January 2, 2018
 **Today's ToDo's**:
 
