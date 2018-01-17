@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 16, 2018
+
+**Today's Progress**
+1. Completed my python homework for next week tonight after class
+
+**Thoughts**
++ I doubt class will continue to be this easy.
++ I have to get more consistent, I am blaming the preparation for the new job and for school starting today.
+
+---
+
+### Day 4: January 10, 2018
+
+**Today's Progress**
+1. Did some web prototyping for CollectThisList in Adobe XD
+
+**Thoughts**
++ It's not too hard to keep at this once I get started, I just need to get more consistent
+
+---
+
 ### Day 3: January 6, 2018
 
 **Today's Progress**
