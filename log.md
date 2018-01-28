@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+### Day 6, 7, & 8: January 26-28, 2018
+
+**Global Game Jam**
+Worked on a game this weekend with old friends from my Alma-Mater you can check out the game here https://globalgamejam.org/2018/games/catapult-0.  I didn't do as much as I hoped due to system setup issues and being rusty (no pun intended lol) with the tools but once it started coming back I was pretty confident again.  I guess I never really faced the fact that since working at Planet3 I had begun to doubt myself when it came to game design so a lot of this experience was pushing past those doubts.  Since working at Planet3 I have done some amazing things programming wise and I am looking forward to doing even more.  I also hope to push even further back into game design because I used to be really good at this and I will be again!
 
 ### Day 5: January 16, 2018
 
